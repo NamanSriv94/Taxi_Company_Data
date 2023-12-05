@@ -1,0 +1,18 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045167"),
+    "morning_shift" : true,
+    "evening_shift" : false,
+    "night_shift" : false
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045168"),
+    "morning_shift" : false,
+    "evening_shift" : true,
+    "night_shift" : false
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045169"),
+    "morning_shift" : false,
+    "evening_shift" : false,
+    "night_shift" : true
+}

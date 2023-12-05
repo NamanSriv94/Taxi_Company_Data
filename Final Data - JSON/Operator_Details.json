@@ -1,0 +1,72 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04519d"),
+    "f_name" : "Penelope ",
+    "l_name" : "Thomas",
+    "location" : "Utah",
+    "shift" : ObjectId("639a47766cc46fc0ef045167"),
+    "operator_ctc" : ObjectId("639a47766cc46fc0ef04516a"),
+    "last_updated" : ISODate("2019-04-13T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04519e"),
+    "f_name" : "Sofia ",
+    "l_name" : "Kennedy",
+    "location" : "Nebraska",
+    "shift" : ObjectId("639a47766cc46fc0ef045168"),
+    "operator_ctc" : ObjectId("639a47766cc46fc0ef04516b"),
+    "last_updated" : ISODate("2019-09-29T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04519f"),
+    "f_name" : "Beatrix ",
+    "l_name" : "Kemp",
+    "location" : "Tasmania",
+    "shift" : ObjectId("639a47766cc46fc0ef045167"),
+    "operator_ctc" : ObjectId("639a47766cc46fc0ef04516c"),
+    "last_updated" : ISODate("2019-10-06T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451a0"),
+    "f_name" : "Jessica ",
+    "l_name" : "Dale",
+    "location" : "South Australia",
+    "shift" : ObjectId("639a47766cc46fc0ef045167"),
+    "operator_ctc" : ObjectId("639a47766cc46fc0ef04516d"),
+    "last_updated" : ISODate("2020-04-05T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451a1"),
+    "f_name" : "Annalise ",
+    "l_name" : "Sawyer",
+    "location" : "London",
+    "shift" : ObjectId("639a47766cc46fc0ef045168"),
+    "operator_ctc" : ObjectId("639a47766cc46fc0ef04516e"),
+    "last_updated" : ISODate("2020-12-20T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451a2"),
+    "f_name" : "Leonard ",
+    "l_name" : "Lynch",
+    "location" : "Southampton",
+    "shift" : ObjectId("639a47766cc46fc0ef045169"),
+    "operator_ctc" : ObjectId("639a47766cc46fc0ef04516f"),
+    "last_updated" : ISODate("2021-01-10T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451a3"),
+    "f_name" : "Emmy ",
+    "l_name" : "Jefferson",
+    "location" : "Delhi",
+    "shift" : ObjectId("639a47766cc46fc0ef045169"),
+    "operator_ctc" : ObjectId("639a47766cc46fc0ef045170"),
+    "last_updated" : ISODate("2021-09-22T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451a4"),
+    "f_name" : "Conrad ",
+    "l_name" : "Abbott",
+    "location" : "Mumbai",
+    "shift" : ObjectId("639a47766cc46fc0ef045167"),
+    "operator_ctc" : ObjectId("639a47766cc46fc0ef045171"),
+    "last_updated" : ISODate("2022-12-03T00:00:00.000+0000")
+}

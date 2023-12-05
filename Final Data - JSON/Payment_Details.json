@@ -1,0 +1,56 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045173"),
+    "amount" : NumberInt(3000),
+    "booking_id" : ObjectId("639a47766cc46fc0ef04518c"),
+    "payment_type" : "Cash",
+    "last_updated" : ISODate("2021-10-27T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045174"),
+    "amount" : NumberInt(1200),
+    "booking_id" : ObjectId("639a47766cc46fc0ef04518b"),
+    "payment_type" : "Credit Card",
+    "last_updated" : ISODate("2022-06-08T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045175"),
+    "amount" : NumberInt(20000),
+    "booking_id" : ObjectId("639a47766cc46fc0ef04518a"),
+    "payment_type" : "Debit Card",
+    "last_updated" : ISODate("2020-10-07T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045176"),
+    "amount" : NumberInt(5600),
+    "booking_id" : ObjectId("639a47766cc46fc0ef045189"),
+    "payment_type" : "Online - Paypal",
+    "last_updated" : ISODate("2022-12-14T22:00:22.655+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045177"),
+    "amount" : NumberInt(300),
+    "booking_id" : ObjectId("639a47766cc46fc0ef045188"),
+    "payment_type" : "Cash",
+    "last_updated" : ISODate("2022-05-30T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045178"),
+    "amount" : NumberInt(9000),
+    "booking_id" : ObjectId("639a47766cc46fc0ef045187"),
+    "payment_type" : "Credit Card",
+    "last_updated" : ISODate("2019-03-10T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045179"),
+    "amount" : NumberInt(2600),
+    "booking_id" : ObjectId("639a47766cc46fc0ef045186"),
+    "payment_type" : "Debit Card",
+    "last_updated" : ISODate("1962-12-25T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04517a"),
+    "amount" : NumberInt(4200),
+    "booking_id" : ObjectId("639a47766cc46fc0ef045185"),
+    "payment_type" : "Cash",
+    "last_updated" : ISODate("2022-12-14T22:00:22.655+0000")
+}

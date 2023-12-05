@@ -1,0 +1,84 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04515a"),
+    "fName" : "Sam",
+    "lName" : "Lokonga",
+    "address" : ObjectId("639a47766cc46fc0ef04518d"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a5"),
+    "driver_ctc" : ObjectId("639a47766cc46fc0ef04516a"),
+    "date_of_joining" : ISODate("2012-12-14T00:00:00.000+0000"),
+    "previous_company" : "Uber",
+    "years_of_exp" : NumberInt(10),
+    "penalties" : NumberInt(100)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04515b"),
+    "fName" : "Lord",
+    "lName" : "Voldemort",
+    "address" : ObjectId("639a47766cc46fc0ef04518e"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a6"),
+    "driver_ctc" : ObjectId("639a47766cc46fc0ef04516b"),
+    "date_of_joining" : ISODate("1912-12-14T00:00:00.000+0000"),
+    "previous_company" : "Lime",
+    "years_of_exp" : NumberInt(100),
+    "penalties" : NumberInt(25000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04515c"),
+    "fName" : "Chacha",
+    "lName" : "Chaudhary",
+    "address" : ObjectId("639a47766cc46fc0ef04518f"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a7"),
+    "driver_ctc" : ObjectId("639a47766cc46fc0ef04516c"),
+    "date_of_joining" : ISODate("2000-12-27T00:00:00.000+0000"),
+    "previous_company" : "Auto Rickshaw",
+    "years_of_exp" : NumberInt(22),
+    "penalties" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04515d"),
+    "fName" : "Chota",
+    "lName" : "Chetan",
+    "address" : ObjectId("639a47766cc46fc0ef045190"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a8"),
+    "driver_ctc" : ObjectId("639a47766cc46fc0ef04516d"),
+    "date_of_joining" : ISODate("2005-07-15T00:00:00.000+0000"),
+    "previous_company" : "Mumbai Taxi",
+    "years_of_exp" : NumberInt(17),
+    "penalties" : NumberInt(7100)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04515e"),
+    "fName" : "Peter",
+    "lName" : "John",
+    "address" : ObjectId("639a47766cc46fc0ef045191"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a9"),
+    "driver_ctc" : ObjectId("639a47766cc46fc0ef04516e"),
+    "date_of_joining" : ISODate("2022-12-14T22:00:22.527+0000"),
+    "previous_company" : "Lyft",
+    "years_of_exp" : NumberInt(0),
+    "penalties" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04515f"),
+    "fName" : "Beti",
+    "lName" : "Pushpa",
+    "address" : ObjectId("639a47766cc46fc0ef045192"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451aa"),
+    "driver_ctc" : ObjectId("639a47766cc46fc0ef04516f"),
+    "date_of_joining" : ISODate("2010-10-10T00:00:00.000+0000"),
+    "previous_company" : "Tonga",
+    "years_of_exp" : NumberInt(12),
+    "penalties" : NumberInt(11000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045160"),
+    "fName" : "Baburao",
+    "lName" : "Aapte",
+    "address" : ObjectId("639a47766cc46fc0ef045193"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451ab"),
+    "driver_ctc" : ObjectId("639a47766cc46fc0ef04516b"),
+    "date_of_joining" : ISODate("2002-02-28T00:00:00.000+0000"),
+    "previous_company" : "Star Taxis",
+    "years_of_exp" : NumberInt(20),
+    "penalties" : NumberInt(500)
+}

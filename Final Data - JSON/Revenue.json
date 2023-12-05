@@ -1,0 +1,60 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04517b"),
+    "paid_amount" : NumberInt(12000),
+    "driver_id" : ObjectId("639a47766cc46fc0ef04515a"),
+    "earned_amount" : NumberInt(18000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04517c"),
+    "paid_amount" : NumberInt(30000),
+    "driver_id" : ObjectId("639a47766cc46fc0ef04515b"),
+    "earned_amount" : NumberInt(50000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04517d"),
+    "paid_amount" : NumberInt(11000),
+    "driver_id" : ObjectId("639a47766cc46fc0ef04515c"),
+    "earned_amount" : NumberInt(19000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04517e"),
+    "paid_amount" : NumberInt(7100),
+    "driver_id" : ObjectId("639a47766cc46fc0ef04515d"),
+    "earned_amount" : NumberInt(12000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04517f"),
+    "paid_amount" : NumberInt(2300),
+    "driver_id" : ObjectId("639a47766cc46fc0ef04515e"),
+    "earned_amount" : NumberInt(4500)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045180"),
+    "paid_amount" : NumberInt(57000),
+    "driver_id" : ObjectId("639a47766cc46fc0ef04515f"),
+    "earned_amount" : NumberInt(90000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045181"),
+    "paid_amount" : NumberInt(4000),
+    "driver_id" : ObjectId("639a47766cc46fc0ef045160"),
+    "earned_amount" : NumberInt(7100)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045182"),
+    "paid_amount" : NumberInt(6100),
+    "driver_id" : ObjectId("639a47766cc46fc0ef04515f"),
+    "earned_amount" : NumberInt(8000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045183"),
+    "paid_amount" : NumberInt(21000),
+    "driver_id" : null,
+    "earned_amount" : NumberInt(32000)
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045184"),
+    "paid_amount" : NumberInt(19000),
+    "driver_id" : null,
+    "earned_amount" : NumberInt(28000)
+}

@@ -1,0 +1,54 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04516a"),
+    "salary" : "15000",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "fixed"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04516b"),
+    "salary" : "20000",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "fixed"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04516c"),
+    "salary" : "0.35",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "percentage"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04516d"),
+    "salary" : ".50",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "percentage"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04516e"),
+    "salary" : "10000",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "fixed"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04516f"),
+    "salary" : "0.20",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "percentage"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045170"),
+    "salary" : "22000",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "fixed"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045171"),
+    "salary" : "0.40",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "percentage"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045172"),
+    "salary" : "50000",
+    "sal_Date" : NumberInt(2),
+    "sal_type" : "fixed"
+}

@@ -1,0 +1,104 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451b5"),
+    "reg_no" : "L-826w",
+    "reg_date" : ISODate("2010-01-10T00:00:00.000+0000"),
+    "model" : "Toyota Prius",
+    "mfg_year" : "2013",
+    "status_car_id" : ObjectId("639a47766cc46fc0ef045161"),
+    "last_mot_test" : ISODate("2022-02-25T00:00:00.000+0000"),
+    "special_features" : "Electric",
+    "owner_instructions" : "Clean Regularly",
+    "owner_id" : ObjectId("639a47776cc46fc0ef0451bd"),
+    "last_updated" : ISODate("2020-11-05T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451b6"),
+    "reg_no" : "E-1232",
+    "reg_date" : ISODate("2011-04-17T00:00:00.000+0000"),
+    "model" : "Skoda Octavia",
+    "mfg_year" : "2008",
+    "status_car_id" : ObjectId("639a47766cc46fc0ef045162"),
+    "last_mot_test" : ISODate("2022-03-10T00:00:00.000+0000"),
+    "special_features" : "Semi Luxury",
+    "owner_instructions" : "Tire Less than 2000KM",
+    "owner_id" : ObjectId("639a47776cc46fc0ef0451be"),
+    "last_updated" : ISODate("2021-02-18T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451b7"),
+    "reg_no" : "F-505f",
+    "reg_date" : ISODate("2011-11-13T00:00:00.000+0000"),
+    "model" : "Citroen Berlingo",
+    "mfg_year" : "2007",
+    "status_car_id" : ObjectId("639a47766cc46fc0ef045163"),
+    "last_mot_test" : ISODate("2022-04-08T00:00:00.000+0000"),
+    "special_features" : "High Seating Capacity",
+    "owner_instructions" : "Check Music Systems",
+    "owner_id" : ObjectId("639a47776cc46fc0ef0451bf"),
+    "last_updated" : ISODate("2021-04-15T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451b8"),
+    "reg_no" : "H-317p",
+    "reg_date" : ISODate("2012-04-06T00:00:00.000+0000"),
+    "model" : "Mercedes E-Class",
+    "mfg_year" : "2009",
+    "status_car_id" : ObjectId("639a47766cc46fc0ef045164"),
+    "last_mot_test" : ISODate("2022-04-19T00:00:00.000+0000"),
+    "special_features" : "Full Luxury",
+    "owner_instructions" : "Give to maintanance",
+    "owner_id" : ObjectId("639a47776cc46fc0ef0451c1"),
+    "last_updated" : ISODate("2021-06-22T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451b9"),
+    "reg_no" : "D-456h",
+    "reg_date" : ISODate("2012-08-23T00:00:00.000+0000"),
+    "model" : "Volkswagen Passat",
+    "mfg_year" : "2006",
+    "status_car_id" : ObjectId("639a47766cc46fc0ef045165"),
+    "last_mot_test" : ISODate("2022-04-27T00:00:00.000+0000"),
+    "special_features" : "Cheap",
+    "owner_instructions" : "Refill fluids",
+    "owner_id" : ObjectId("639a47776cc46fc0ef0451c0"),
+    "last_updated" : ISODate("2021-07-04T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451ba"),
+    "reg_no" : "H-825R",
+    "reg_date" : ISODate("2012-08-27T00:00:00.000+0000"),
+    "model" : "Ford Galaxy",
+    "mfg_year" : "2003",
+    "status_car_id" : ObjectId("639a47766cc46fc0ef045166"),
+    "last_mot_test" : ISODate("2022-05-03T00:00:00.000+0000"),
+    "special_features" : "High luggage capacity",
+    "owner_instructions" : "Car needs interior detailing",
+    "owner_id" : ObjectId("639a47776cc46fc0ef0451c2"),
+    "last_updated" : ISODate("2022-03-19T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451bb"),
+    "reg_no" : "O-933Y",
+    "reg_date" : ISODate("2001-10-25T00:00:00.000+0000"),
+    "model" : "Skoda Superb",
+    "mfg_year" : "2005",
+    "status_car_id" : ObjectId("639a47766cc46fc0ef045164"),
+    "last_mot_test" : ISODate("2022-09-13T00:00:00.000+0000"),
+    "special_features" : "Semi Luxury",
+    "owner_instructions" : "Check car vitals regularly",
+    "owner_id" : ObjectId("639a47776cc46fc0ef0451c3"),
+    "last_updated" : ISODate("2022-06-01T00:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef0451bc"),
+    "reg_no" : "P-520p",
+    "reg_date" : ISODate("2015-12-11T00:00:00.000+0000"),
+    "model" : "Volkswagen Transporter Shuttle",
+    "mfg_year" : "2003",
+    "status_car_id" : ObjectId("639a47766cc46fc0ef045162"),
+    "last_mot_test" : ISODate("2022-11-21T00:00:00.000+0000"),
+    "special_features" : "High luggage capacity",
+    "owner_instructions" : "Take good over all care",
+    "owner_id" : ObjectId("639a47776cc46fc0ef0451c4"),
+    "last_updated" : ISODate("2022-07-30T00:00:00.000+0000")
+}

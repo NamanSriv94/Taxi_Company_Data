@@ -1,0 +1,48 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045161"),
+    "written_off" : true,
+    "roadworthy" : false,
+    "awaitingRepair" : false,
+    "inForService" : false,
+    "running" : false
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045162"),
+    "written_off" : false,
+    "roadworthy" : true,
+    "awaitingRepair" : false,
+    "inForService" : false,
+    "running" : true
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045163"),
+    "written_off" : false,
+    "roadworthy" : true,
+    "awaitingRepair" : true,
+    "inForService" : false,
+    "running" : false
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045164"),
+    "written_off" : false,
+    "roadworthy" : false,
+    "awaitingRepair" : true,
+    "inForService" : false,
+    "running" : false
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045165"),
+    "written_off" : false,
+    "roadworthy" : false,
+    "awaitingRepair" : true,
+    "inForService" : true,
+    "running" : false
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045166"),
+    "written_off" : false,
+    "roadworthy" : false,
+    "awaitingRepair" : false,
+    "inForService" : false,
+    "running" : false
+}

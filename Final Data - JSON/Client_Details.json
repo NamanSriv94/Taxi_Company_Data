@@ -1,0 +1,187 @@
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451c5"),
+    "f_name" : "Oskar",
+    "l_name" : "Kelley",
+    "regular_client" : true,
+    "frequency" : "bi-monthly",
+    "address" : ObjectId("639a47766cc46fc0ef04518d"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a5"),
+    "last_updated" : ISODate("2022-01-25T00:00:00.000+0000"),
+    "client_type" : "coorporate"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451c6"),
+    "f_name" : "Poppie",
+    "l_name" : "Poppie ",
+    "regular_client" : false,
+    "frequency" : null,
+    "address" : ObjectId("639a47766cc46fc0ef04518e"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a5"),
+    "last_updated" : ISODate("2022-05-15T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451c7"),
+    "f_name" : "Oisin",
+    "l_name" : "Marquez",
+    "regular_client" : false,
+    "frequency" : null,
+    "address" : ObjectId("639a47766cc46fc0ef04518f"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a7"),
+    "last_updated" : ISODate("2022-05-17T00:00:00.000+0000"),
+    "client_type" : "coorporate"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451c8"),
+    "f_name" : "Hope",
+    "l_name" : "Doherty",
+    "regular_client" : false,
+    "frequency" : null,
+    "address" : ObjectId("639a47766cc46fc0ef045190"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a6"),
+    "last_updated" : ISODate("2022-06-16T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451c9"),
+    "f_name" : "Alissa",
+    "l_name" : "Monroe",
+    "regular_client" : true,
+    "frequency" : "yearly",
+    "address" : ObjectId("639a47766cc46fc0ef04518f"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a8"),
+    "last_updated" : ISODate("2022-07-25T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451ca"),
+    "f_name" : "Haaris",
+    "l_name" : "Fox",
+    "regular_client" : false,
+    "frequency" : null,
+    "address" : ObjectId("639a47766cc46fc0ef045191"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a8"),
+    "last_updated" : ISODate("2022-08-24T00:00:00.000+0000"),
+    "client_type" : "coorporate"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451cb"),
+    "f_name" : "Cecily",
+    "l_name" : "Pierce",
+    "regular_client" : true,
+    "frequency" : "monthly",
+    "address" : ObjectId("639a47766cc46fc0ef045192"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451a9"),
+    "last_updated" : ISODate("2022-11-10T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451cc"),
+    "f_name" : "Jermaine",
+    "l_name" : "Branch",
+    "regular_client" : true,
+    "frequency" : "weekly",
+    "address" : ObjectId("639a47766cc46fc0ef045193"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451aa"),
+    "last_updated" : ISODate("2022-11-21T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451cd"),
+    "f_name" : "Sonia ",
+    "l_name" : "Connor",
+    "regular_client" : true,
+    "frequency" : "yearly",
+    "address" : ObjectId("639a47766cc46fc0ef045194"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451ab"),
+    "last_updated" : ISODate("2017-08-30T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451ce"),
+    "f_name" : "Kirsten ",
+    "l_name" : "Cunningham",
+    "regular_client" : false,
+    "frequency" : null,
+    "address" : ObjectId("639a47766cc46fc0ef045195"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451ac"),
+    "last_updated" : ISODate("2019-01-15T00:00:00.000+0000"),
+    "client_type" : "coorporate"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451cf"),
+    "f_name" : "Roseanna ",
+    "l_name" : "Ward",
+    "regular_client" : true,
+    "frequency" : "monthly",
+    "address" : ObjectId("639a47766cc46fc0ef045196"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451ac"),
+    "last_updated" : ISODate("2019-06-15T00:00:00.000+0000"),
+    "client_type" : "coorporate"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451d0"),
+    "f_name" : "Liliana ",
+    "l_name" : "Tate",
+    "regular_client" : false,
+    "frequency" : null,
+    "address" : ObjectId("639a47766cc46fc0ef045197"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451ad"),
+    "last_updated" : ISODate("2020-07-17T00:00:00.000+0000"),
+    "client_type" : "coorporate"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451d1"),
+    "f_name" : "Annabella ",
+    "l_name" : "Monroe",
+    "regular_client" : false,
+    "frequency" : null,
+    "address" : ObjectId("639a47766cc46fc0ef045198"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451ae"),
+    "last_updated" : ISODate("2020-12-13T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451d2"),
+    "f_name" : "Patrick ",
+    "l_name" : "Villanueva",
+    "regular_client" : true,
+    "frequency" : "weekly",
+    "address" : ObjectId("639a47766cc46fc0ef045199"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451af"),
+    "last_updated" : ISODate("2021-03-09T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451d3"),
+    "f_name" : "Fiona ",
+    "l_name" : "Perry",
+    "regular_client" : true,
+    "frequency" : "monthly",
+    "address" : ObjectId("639a47766cc46fc0ef045197"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451b0"),
+    "last_updated" : ISODate("2021-04-17T00:00:00.000+0000"),
+    "client_type" : "coorporate"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451d4"),
+    "f_name" : "Elizabeth ",
+    "l_name" : "Perez",
+    "regular_client" : true,
+    "frequency" : "bi-monthly",
+    "address" : ObjectId("639a47766cc46fc0ef045196"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451b1"),
+    "last_updated" : ISODate("2021-05-27T00:00:00.000+0000"),
+    "client_type" : "private"
+}
+{
+    "_id" : ObjectId("639a47776cc46fc0ef0451d5"),
+    "f_name" : "Sienna ",
+    "l_name" : "Haley",
+    "regular_client" : false,
+    "frequency" : null,
+    "address" : ObjectId("639a47766cc46fc0ef04519b"),
+    "contact" : ObjectId("639a47766cc46fc0ef0451b2"),
+    "last_updated" : ISODate("2018-02-05T00:00:00.000+0000"),
+    "client_type" : "coorporate"
+}

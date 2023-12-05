@@ -1,0 +1,48 @@
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045185"),
+    "drop_add" : ObjectId("639a47766cc46fc0ef04518d"),
+    "travel_date" : ISODate("2021-10-27T00:00:00.000+0000"),
+    "travel_destination" : "UK"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045186"),
+    "drop_add" : ObjectId("639a47766cc46fc0ef04518e"),
+    "travel_date" : ISODate("2022-12-14T22:00:22.740+0000"),
+    "travel_destination" : "UK"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045187"),
+    "drop_add" : ObjectId("639a47766cc46fc0ef04518f"),
+    "travel_date" : ISODate("2023-12-14T00:00:00.000+0000"),
+    "travel_destination" : "USA"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045188"),
+    "drop_add" : ObjectId("639a47766cc46fc0ef045190"),
+    "travel_date" : ISODate("2023-08-25T00:00:00.000+0000"),
+    "travel_destination" : "USA"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef045189"),
+    "drop_add" : ObjectId("639a47766cc46fc0ef045191"),
+    "travel_date" : ISODate("2022-12-14T22:00:22.740+0000"),
+    "travel_destination" : "India"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04518a"),
+    "drop_add" : ObjectId("639a47766cc46fc0ef045192"),
+    "travel_date" : ISODate("2022-12-26T00:00:00.000+0000"),
+    "travel_destination" : "India"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04518b"),
+    "drop_add" : ObjectId("639a47766cc46fc0ef045193"),
+    "travel_date" : ISODate("2022-12-14T22:00:22.740+0000"),
+    "travel_destination" : "Austrailia"
+}
+{
+    "_id" : ObjectId("639a47766cc46fc0ef04518c"),
+    "drop_add" : ObjectId("639a47766cc46fc0ef045194"),
+    "travel_date" : ISODate("2023-01-01T00:00:00.000+0000"),
+    "travel_destination" : "UK"
+}
